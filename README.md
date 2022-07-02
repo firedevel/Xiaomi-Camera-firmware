@@ -12,12 +12,12 @@ https://pluwen.com/posts/xiaomi-mijia-xiaobai-camera-firmware-download
 
 # CMSXJ01C
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018121218.zip  
-http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018062014.zip
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018062014.zip  
 [3.3.6-2017092810 hacks](https://www.github.com/intentionstore/chuangmi-720p-hacks)
 
 # MJSXJ09CM  (SN: 26537*)
 https://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.9_0178.zip  
-http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.6_0132.zip
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.6_0132.zip  
 
 # MJSXJ09CM  A04 (SN: 30486*)
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021A04/firmware/IPC021A04_4.1.6_0306.rar
