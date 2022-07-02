@@ -12,6 +12,7 @@ https://web.vip.miui.com/page/info/mio/mio/detail?postId=3352140
 # CMSXJ01C
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018121218.zip  
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2018062014.zip
+http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc006/firmware/IPC006_3.3.6_2017092810.zip
 
 # MJSXJ09CM  (SN: 26537*)
 https://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.9_0178.zip  
