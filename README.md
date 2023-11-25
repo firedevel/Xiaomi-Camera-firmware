@@ -23,3 +23,4 @@ http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/ipc021/IPC021_4.0.6_013
 # MJSXJ06CM  A04 (SN: 30486*)
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021A04/firmware/IPC021A04_4.1.6_0306.rar  
 http://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021A04/firmware/IPC021A04_4.1.2_0282.rar  
+https://cdn.cnbj2.fds.api.mi-img.com/chuangmi-cdn/product/IPC021A04/firmware/IPC021A04_4.3.4_0372.zip  
